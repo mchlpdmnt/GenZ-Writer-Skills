@@ -153,4 +153,6 @@ Found a pattern that slipped through? Have a new format branch in mind?
 
 ## License
 
-MIT
+MIT 
+
+Copyright (c) 2026 Michael Pedemonte
